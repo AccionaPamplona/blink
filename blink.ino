@@ -23,6 +23,6 @@ void loop() {
 <<<<<<< HEAD
   delay(1111);               // wait for a second
 =======
-  delay(1985);               // wait for a second
+  delay(6996);               // wait for a second
 >>>>>>> f814e0467c5ee34305be116e9b57b0feb5e73e0d
 }
