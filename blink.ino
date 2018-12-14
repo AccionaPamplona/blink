@@ -1,7 +1,11 @@
 /*
   Blink
   Turns on an LED on for one second, then off for one second, repeatedly.
+<<<<<<< HEAD
+  Example
+=======
  asdf
+>>>>>>> 8f7bc606c5225cedbdd9cf717c5e1c0803cde6b7
   This example code is in the public domain.
  */
  
