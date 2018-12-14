@@ -1,7 +1,11 @@
 /*
   Blink
   Turns on an LED on for one second, then off for one second, repeatedly.
+<<<<<<< HEAD
   Example
+=======
+ asdf
+>>>>>>> 8f7bc606c5225cedbdd9cf717c5e1c0803cde6b7
   This example code is in the public domain.
  */
  
@@ -20,5 +24,5 @@ void loop() {
   digitalWrite(led, HIGH);   // turn the LED on (HIGH is the voltage level)
   delay(3000);               // wait for a second
   digitalWrite(led, LOW);    // turn the LED off by making the voltage LOW
-  delay(3000);               // wait for a second
+  delay(1000);               // wait for a second
 }
