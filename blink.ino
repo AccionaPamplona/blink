@@ -24,9 +24,5 @@ void loop() {
   digitalWrite(led, HIGH);   // turn the LED on (HIGH is the voltage level)
   delay(3000);               // wait for a second
   digitalWrite(led, LOW);    // turn the LED off by making the voltage LOW
-<<<<<<< HEAD
-  delay(5000);               // wait for a second
-=======
   delay(1000);               // wait for a second
->>>>>>> ff393d7fab2b94e76e88b24067b61996ad086d25
 }
